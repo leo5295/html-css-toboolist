@@ -7,6 +7,7 @@
 header{
     padding: 10px 0px 0px 10px;
     background-color: white;
+    margin-bottom: 20px;
 }
 
 h1{
@@ -21,17 +22,16 @@ body{
 }
 
 .container{
-    width: 100%;
+    width: 75%;
     background-color: white;
-    height: 50px;
-    margin: 20px 20px 2px 20px;
+    margin: 0 auto;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 
 }
 
 .square-blue{
-    width: 20px;
+    width: 120px;
     padding: 10px;
     background-color: deepskyblue;
     display: inline;
@@ -42,31 +42,29 @@ body{
 }
 
 .square-white{
-    width: 20px;
+    width: 120px;
     height: 100px;
     color: grey;
     background-color: white;
-    border-color: black;
     display: inline;
     margin-left: 20px;
     border-radius: 10px;
 }
 
 .container-task{
-    width: 100%;
+    width: 75%;
     background-color: white;
-    margin: 0px 20px 5px 20px;
 
 }
 
 .subcontainer{
     margin-left: 100px;
     padding: 20px;
+    margin-top: 10px;
     
 }
 
 .block-blue{
-    width: 20px;
     padding: 10px;
     background-color: deepskyblue;
     display: inline;
@@ -74,6 +72,11 @@ body{
     margin-left: 30px;
     border-radius: 10px;
 
+}
+
+
+li{
+    padding: 20px;
 }
 
 ul {
