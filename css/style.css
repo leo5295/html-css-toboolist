@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding: 10px 0px 0px 10px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    display: inline;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.container{
+    width: 1000px;
+    height: 1000px;
+    background-color: white;
+    margin: 20px 50px 10px 50px;
+}
+.square-blue{
+    width: 20px;
+    height: 10;
+    background-color: deepskyblue;
+
+}
